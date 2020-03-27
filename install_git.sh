@@ -10,4 +10,4 @@ apt upgrade -y
 
 echo "Installing latest git..."
 
-sudo apt installl git
+sudo apt install git
