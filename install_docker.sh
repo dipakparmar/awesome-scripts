@@ -20,3 +20,5 @@ echo "Adding current user to docker group"
 
 sudo usermod -aG docker $USER
 
+sudo reboot
+
